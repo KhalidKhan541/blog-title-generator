@@ -1,0 +1,9 @@
+{
+  "name": "blog-title-generator",
+  "version": "1.0.0",
+  "description": "AI Blog Title Generator - Create engaging, SEO-friendly blog titles in seconds",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler pages deploy public --project-name blog-title-generator"
+  }
+}

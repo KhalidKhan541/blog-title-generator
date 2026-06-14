@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-title-generator.pages.dev/sitemap.xml
